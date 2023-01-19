@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/cotton/cotton-square.png
 title: "Analyzing Live Streaming Community Dnaymics: Popularity Prediction"
-date: 2022
+date: 2022-12-01
 published: true
 labels:
   - Machine Learning
