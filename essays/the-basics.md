@@ -18,13 +18,13 @@ labels:
 
 Honestly, my interest in web development stemmed from my adventures in playing Neopets. Neopets is a virtual pet website that was launched in late 1999. I wanted to learn HTML solely because I wanted to customize my profile page and make it look “pretty.” Fast forward to now, my first experience with Javascript was last week, completing the exercises in [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/). In freeCodeCamp, I was also exposed to ECMAScript, specifically ES6, which was released in 2015. 
 
-<img align = "right" width="300px" class="rounded float-start pe-4" src="https://miro.medium.com/max/1400/1*ymgzIlxykSI7--smaBN5mA.webp">
 
 
 ## Java versus Javascript
 
 Although Java and Javascript sounds similar, I learned that these two programming languages have key differences. Javascript, along with HTML and CSS are the three main languages to building websites. Having spent a year learning Java and declaring variable’s types, it felt a little strange to not have to do that with Javascript. I quickly learned about the more relaxed syntax rules for Javascript. Another difference is that in Javascript, arrays can contain multiple types and functions are first class. Although Javascript seems more forgiving than Java, I do not think one is necessarily “better” than the other – it depends on what you want to do with programming. 
 
+<img align = "right" width="300px" class="rounded float-start pe-4" src="https://miro.medium.com/max/1400/1*ymgzIlxykSI7--smaBN5mA.webp">
 
 
 
