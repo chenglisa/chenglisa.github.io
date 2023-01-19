@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/micromouse/micromouse-square.jpg
 title: "Programming for Basic Artificial Intelligence using NAO Robots and Choregraphe"
-date: 2022
+date: 2022-12-01
 published: true
 labels:
   - Robotics
