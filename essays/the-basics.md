@@ -24,7 +24,8 @@ Honestly, my interest in web development stemmed from my adventures in playing N
 
 Although Java and Javascript sounds similar, I learned that these two programming languages have key differences. Javascript, along with HTML and CSS are the three main languages to building websites. Having spent a year learning Java and declaring variable’s types, it felt a little strange to not have to do that with Javascript. I quickly learned about the more relaxed syntax rules for Javascript. Another difference is that in Javascript, arrays can contain multiple types and functions are first class. Although Javascript seems more forgiving than Java, I do not think one is necessarily “better” than the other – it depends on what you want to do with programming. 
 
-<img align = "right" width="300px" class="rounded float-start pe-4" src="https://miro.medium.com/max/1400/1*ymgzIlxykSI7--smaBN5mA.webp">
+<img align="right" width="100" height="100" src="https://miro.medium.com/max/1400/1*ymgzIlxykSI7--smaBN5mA.webp">
+
 
 
 
