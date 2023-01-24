@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/cotton/cotton-square.png
 title: "Fishing Game"
-date: 2022-05-01
+date: 2022
 published: true
 labels:
   - Java
