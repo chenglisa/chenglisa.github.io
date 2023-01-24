@@ -8,7 +8,7 @@ published: true
 labels:
   - Java
   - GitHub
-summary: "ICS 211."
+summary: "ICS 211"
 ---
 
 <img class="img-fluid" src="../img/cotton/cotton-header.png">
