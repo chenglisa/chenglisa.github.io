@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/micromouse/micromouse-square.jpg
 title: "NAO Robots and Choregraphe"
-date: 2022-12-01
+date: 2022
 published: true
 labels:
   - Robotics
