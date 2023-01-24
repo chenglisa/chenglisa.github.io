@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/cotton/cotton-square.png
 title: "Analyzing Live Streaming Community Dynamics"
-date: 2022-12-01
+date: 2022
 published: true
 labels:
   - Machine Learning
