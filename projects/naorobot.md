@@ -2,14 +2,14 @@
 layout: project
 type: project
 image: img/micromouse/micromouse-square.jpg
-title: "Programming for Basic Artificial Intelligence using NAO Robots and Choregraphe"
+title: "NAO Robots and Choregraphe"
 date: 2022-12-01
 published: true
 labels:
   - Robotics
   - Choregraphe
   - Python
-summary: "My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition."
+summary: "Programming for Basic Artificial Intelligence using NAO Robots and Choregraph"
 ---
 
 <div class="text-center p-4">
