@@ -2,14 +2,14 @@
 layout: project
 type: project
 image: img/cotton/cotton-square.png
-title: "Analyzing Live Streaming Community Dnaymics: Popularity Prediction"
+title: "Analyzing Live Streaming Community Dynamics"
 date: 2022-12-01
 published: true
 labels:
   - Machine Learning
   - Jupyter
   - Data Science
-summary: "AI4ALL"
+summary: "Analyzing Live Streaming Community Dynamics: Popularity Prediction"
 ---
 
 <img class="img-fluid" src="../img/cotton/cotton-header.png">
