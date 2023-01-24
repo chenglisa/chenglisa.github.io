@@ -9,7 +9,7 @@ labels:
   - Robotics
   - Choregraphe
   - Python
-summary: "Programming for Basic Artificial Intelligence using NAO Robots and Choregraph"
+summary: "Programming for Basic Artificial Intelligence using NAO Robots and Choregraphe"
 ---
 
 <div class="text-center p-4">
