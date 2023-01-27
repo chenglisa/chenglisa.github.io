@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Lesson 1 - The Basics"
+title: "Thank you, Neopets!"
 # All dates must be YYYY-MM-DD format!
 date: 2023-01-18
 published: true
