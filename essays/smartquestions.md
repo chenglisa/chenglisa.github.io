@@ -28,4 +28,4 @@ This [question](https://stackoverflow.com/questions/75252519/i-am-getting-an-err
 
 ##  "Smart" Question
 
-This question posted on Stack Overflow is an example that hits Eric Raymond’s guidelines. The question’s title is “What is the – > operator in C++,” which is very specific and concise. In the post, the user writes after reading the resource, “Hidden Features and Dark Corners of C++/STL,” it was surprising this piece of code compiled and  
+This [question](https://stackoverflow.com/questions/1642028/what-is-the-operator-in-c) posted on Stack Overflow is an example that hits Eric Raymond’s guidelines. The question’s title is “What is the – > operator in C++,” which is very specific and concise. In the post, the user writes after reading the resource, “Hidden Features and Dark Corners of C++/STL,” it was surprising this piece of code compiled and  
