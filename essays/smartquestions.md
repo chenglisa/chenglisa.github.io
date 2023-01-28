@@ -26,7 +26,7 @@ After going through your resources, the next step would be taking the time to pr
 This [question](https://stackoverflow.com/questions/75252519/i-am-getting-an-error-and-i-do-not-know-how-to-solve-it) posted on Stack Overflow is an example that goes against the guidelines by Eric Raymond. Its title, which is very vague, is, “I am getting an error and I do not know how to solve it.” The post itself also does not contain many details; it just states the user had an error occurred during initialization of boot layer java.lang.module.FindException. The user is asking how to fix this of error and mentioned that several attempts were made to try changing certain parts of the code. However, no details are given on what these changes were. With this type of question, the response the user received was “poor title, rewrite to summarize your specific technical issue.” 
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/97767296/215049251-80f53788-261e-4f71-ab6c-1cf962bff8f1.png" width=50% height=50% >
+<img src="https://user-images.githubusercontent.com/97767296/215049251-80f53788-261e-4f71-ab6c-1cf962bff8f1.png" width="200" height="400" >
 </p>
 
 ---
@@ -35,7 +35,7 @@ This [question](https://stackoverflow.com/questions/75252519/i-am-getting-an-err
 This [question](https://stackoverflow.com/questions/1642028/what-is-the-operator-in-c) posted on Stack Overflow is an example that hits Eric Raymond’s guidelines. The question’s title is “What is the – > operator in C++,” which is very specific and concise. In the post, the user writes after reading the resource, “Hidden Features and Dark Corners of C++/STL,” it was surprising this piece of code compiled and wanted further clarification on the - > operator. This shows that the user has done research prior to posting this question. The user also posted a screenshot of the piece of code that was in question. Unlike the previous example, the response this user received was more effective and helpful. 
 
  <p align="center">
-<img src="https://user-images.githubusercontent.com/97767296/215049065-0bbcc345-e7e0-411e-8aef-b0e6941b6875.png" width=50% height=50% >
+<img src="https://user-images.githubusercontent.com/97767296/215049065-0bbcc345-e7e0-411e-8aef-b0e6941b6875.png" width="200" height="400" >
 </p>
 
 
