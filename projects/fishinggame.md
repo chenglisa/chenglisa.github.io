@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/letsgofishing_play.webp
+image: img/file-20220524-22-jw6gdn.avif
 title: "Fishing Game"
 date: 2021
 published: true
