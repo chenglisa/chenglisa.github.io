@@ -27,7 +27,6 @@ There are two ways to program NAO using Choregraphe:
 
 2) Create your own boxes in Choregraphe and write your code in the Script Editor (I used Python, but NAO is supported in other languages like Java and C++). 
 
-<img src="http://doc.aldebaran.com/1-14/_images/sofware-programming-overview-bis.png" height="340" width="400" >
 
 Because NAO is humanoid, there are many possibilities you can do with NAO. I wanted to explore the movement side of NAO, by trying to create a workout robot. I had NAO stand up, raise its arms and walk in different directions. Then, I had NAO move its arms and sit back down.
 
