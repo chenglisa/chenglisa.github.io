@@ -8,10 +8,10 @@ published: true
 labels:
   - Java
   - GitHub
-summary: "ICS 211"
+summary: "Final Project for my ICS 211 class"
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="https://supersimple.com/wp-content/uploads/2020/06/ten-1200w-blog.jpg">
 
 Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
