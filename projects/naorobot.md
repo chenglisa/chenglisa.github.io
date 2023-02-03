@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/assets.newatlas.avif
 title: "NAO Robots and Choregraphe"
 date: 2022
 published: true
