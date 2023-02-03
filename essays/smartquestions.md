@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "What Not to Do: PLZ HELP ME"
+title: "What Not to Say: PLZ HELP ME"
 # All dates must be YYYY-MM-DD format!
 date: 2023-01-26
 published: true
