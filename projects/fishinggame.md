@@ -10,8 +10,10 @@ labels:
   - GitHub
 summary: "Final Project for my ICS 211 class"
 ---
+<p align="center">
+<img src="https://supersimple.com/wp-content/uploads/2020/06/ten-1200w-blog.jpg" width="500" height="340">
+</p>
 
-<img class="https://supersimple.com/wp-content/uploads/2020/06/ten-1200w-blog.jpg">
 
 Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
