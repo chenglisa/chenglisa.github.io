@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/letsgofishing_play.webp
 title: "Fishing Game"
 date: 2021
 published: true
