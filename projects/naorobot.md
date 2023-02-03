@@ -15,7 +15,7 @@ summary: "Programming for Basic Artificial Intelligence using NAO Robots and Cho
 
 
 ### Background
-<img src="https://provenrobotics.ai/wp-content/uploads/2022/06/nao.webp" height="300" width="200" >
+<img src="https://provenrobotics.ai/wp-content/uploads/2022/06/nao.webp" height="300" width="240" >
 
 For my research project for my class, SCI 295CS (STEM Research Exp. in Computer Science) at Kapiolani CC, my classmates and I worked with the NAO robot. NAO is the first humanoid robot created by Aldebaran Robotics in 2005. NAO has many built-in sensors to help closely mimic human behavior. Now in its 6th generation, NAO has become recognized as the standard robot used for education and research purposes. This functioned as a fairly freeform project, with each of us being free to explore the possibilities of what we wanted to program NAO to do. At the end of the semester, we presented at the Student Undergraduate Research Fair (SURF). 
 
