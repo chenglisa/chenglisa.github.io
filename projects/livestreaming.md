@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Twitch512512.jpg
+image: img/2399c71d2a2bca32d6f39d60ac643a17.png
 title: "Analyzing Live Streaming Community Dynamics"
 date: 2022
 published: true
