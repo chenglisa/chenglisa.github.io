@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/file-20220524-22-jw6gdn.avif
+image: img/Chromis-Bonaire-1200x800.jpg
 title: "Fishing Game"
 date: 2021
 published: true
@@ -18,8 +18,11 @@ summary: "Final Project for my ICS 211 class"
 For my final project for my ICS 211 class, I was in a group of three to create a fishing game. The rules for this game were:
 
 1) Two players will alternate turns on the same computer
+
 2) The players will catch fish and put them into a "sack" (an ArrayList, sorted in descending order by length)
-3) If the fish is caught, the player will then need to decide whether or not to keep it.
+
+3) If the fish is caught, the player will then need to decide whether or not to keep it
+
 4) After 12 turns each, the player with the three largest fish is the winner
 
 <p align="center">
