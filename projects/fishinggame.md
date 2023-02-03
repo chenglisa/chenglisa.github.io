@@ -23,7 +23,7 @@ For my final project for my ICS 211 class, I was in a group of three to create a
 4) After 12 turns each, the player with the three largest fish is the winner
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/279775/165010522-62a8f40d-7a9e-4496-9bb8-0686a603844a.png" width="500" height="340">
+<img src="https://user-images.githubusercontent.com/279775/165010522-62a8f40d-7a9e-4496-9bb8-0686a603844a.png" width="550" height="340">
 </p>
 
 MoiLi_i, Oama, Ohua, and Pua_ama are the name of the fish families we used (these were the parent classes). From this project, I learned a lot about Java, such as inheritance, working with abstract classes, interfaces, etc. This project also taught me a lot about teamwork and how to work together with a group of people for coding. 
