@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Why did I write that before??
+title: "Why did I write that before??"
 # All dates must be YYYY-MM-DD format!
 date: 2023-02-09
 published: true
