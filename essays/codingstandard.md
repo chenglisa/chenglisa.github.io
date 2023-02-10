@@ -20,6 +20,7 @@ Coding standards are rules/guidelines for developers to follow to achieve cleane
 
 
 ## IntelliJ
-<img width="300px" class="rounded float-start pe-4" src="https://dwglogo.com/wp-content/uploads/2017/11/IntelliJ_IDEA_logo_01.png">
+<img align="right" width="300px" src="https://dwglogo.com/wp-content/uploads/2017/11/IntelliJ_IDEA_logo_01.png">
+
 
 
