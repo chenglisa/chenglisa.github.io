@@ -22,7 +22,7 @@ Coding standards are rules/guidelines for developers to follow to achieve cleane
 ## IntelliJ
 
 <p align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQak-N8W03mK25slV1lwM80i0y1obRPPJOaLA&usqp=CAU" width="450" height="300">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQak-N8W03mK25slV1lwM80i0y1obRPPJOaLA&usqp=CAU" width="490" height="300">
 </p>
 
 A
