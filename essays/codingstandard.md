@@ -23,10 +23,3 @@ Coding standards are rules/guidelines for developers to follow to achieve cleane
 <img width="300px" class="rounded float-start pe-4" src="https://dwglogo.com/wp-content/uploads/2017/11/IntelliJ_IDEA_logo_01.png">
 
 
-A
-
-
-
-
-
-
