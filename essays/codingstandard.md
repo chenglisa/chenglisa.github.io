@@ -16,7 +16,7 @@ labels:
 ## As long as it works, right?
 
 
-Coding standards are rules/guidelines for developers to follow to achieve cleaner and readable code. I did not realize how important coding standards were until I was working on a personal project. Because the code I was writing was not for school, meaning I would not get points deducted for not following coding standards, I was just "doing my own thing." I had that misconception, that as long as the code works, I am "all good." However, it wasn't until days later, when I looked back at my code and there were certain parts that I did not know why I wrote that/what it was for. This made me realize that coding standards are useful, as I was spending time trying to figure out my own code. From this experience, I do believe that coding standards are important because it increases efficiency and productivity since it will 
+Coding standards are rules/guidelines for developers to follow to achieve cleaner and readable code. I did not realize how important coding standards were until I was working on a personal project. Because the code I was writing was not for school, meaning I would not get points deducted for not following coding standards, I was just "doing my own thing." I had that misconception, that as long as the code works, I am "all good." However, it was not until days later, when I looked back at my code and there were certain parts that I did not know why I wrote that/what it was for. This made me realize that coding standards are useful, as I was spending time trying to figure out my own code. From this experience, I do believe that coding standards are important because it increases efficiency and productivity since it will 
 
 
 ## Java versus Javascript
