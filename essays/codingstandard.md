@@ -21,7 +21,11 @@ Coding standards are rules/guidelines for developers to follow to achieve cleane
 
 ## IntelliJ
 
-Although Java and Javascript sounds similar, I learned that these two programming languages have key differences. Javascript, along with HTML and CSS are the three main languages to building websites. Having spent a year learning Java and declaring variable’s types, it felt a little strange to not have to do that with Javascript. I quickly learned about the more relaxed syntax rules for Javascript. Another difference is that in Javascript, arrays can contain multiple types and functions are first class. Although Javascript seems more forgiving than Java, I do not think one is necessarily “better” than the other – it depends on what you want to do with programming. 
+<p align="center">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQak-N8W03mK25slV1lwM80i0y1obRPPJOaLA&usqp=CAU" width="600" height="340">
+</p>
+
+A
 
 
 
