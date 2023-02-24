@@ -14,7 +14,7 @@ labels:
 <img width="300px" class="rounded float-start pe-4" src="https://htmlburger.com/blog/wp-content/uploads/2021/02/lets-talk-about-bootstrap.png">
 
 ## Bootstrap 
-For the past week, we have been learning about Bootstrap 5, a front-end framework. Front-end frameworks are intended to make web development easier because they include
+For the past week, we have been learning about Bootstrap 5, a front-end framework. Front-end frameworks are intended to make web development easier because they include predesigned "templates" for you to build on and modify. Bootstrap is also responsive, so your website will automatically adjust and will still look good on different devices/screensizes. To learn Bootstrap, I watched video tutorials on Youtube as well as going through the documentation. Going through the documentation made me realize there is so much Bootstrap offers, it feels like almost learning a new programming language. Some of the key 
 
 
 ## Pros and Cons
