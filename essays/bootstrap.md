@@ -14,7 +14,7 @@ labels:
 <img width="300px" class="rounded float-start pe-4" src="https://htmlburger.com/blog/wp-content/uploads/2021/02/lets-talk-about-bootstrap.png">
 
 ## Bootstrap 
-For the past week, we have been learning about Bootstrap 5, a front-end framework. Front-end frameworks 
+For the past week, we have been learning about Bootstrap 5, a front-end framework. Front-end frameworks are intended to make web development easier because they include
 
 
 ## Pros and Cons
