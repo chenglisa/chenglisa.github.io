@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Why is this not looking the way I wanted it to?!"
+title: "Trying to make these align!"
 # All dates must be YYYY-MM-DD format!
 date: 2023-02-23
 published: true
