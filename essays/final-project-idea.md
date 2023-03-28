@@ -15,7 +15,7 @@ labels:
 
 
 ## School Supplies on a Budget: 
-Maya Chang, Jianlong Chen, Lisa Cheng, Melvin Iwamoto, Adrienne Kaneshiro
+Group: Maya Chang, Jianlong Chen, Lisa Cheng, Melvin Iwamoto, Adrienne Kaneshiro
 
 ## Overview: 
 The Problem: Limited budget, need school materials
