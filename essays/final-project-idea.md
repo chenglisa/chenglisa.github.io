@@ -9,17 +9,19 @@ labels:
   - Software Engineering
   - Meteor
 ---
+##Group members: 
+Maya Chang, Lisa Cheng, Adrienne Kaneshiro, Jianlong Chen, Melvin Iwamoto
 
-Overview: 
+##Overview: 
 The Problem: Limited budget, need school materials
 The Solution: Budget manager that compares prices on your school supplies and suggests the best priced items to you. Can also compare Manoa Bookstore prices to other prices elsewhere (for the same item).
 
-Approach:
+##Approach:
 For this app, we will create a way to present available school supplies based on prices. Users will be able to see a list of supplies they need based on the courses. A list of available school supplies will be generated, sorted by price. Users can then add their payment information and finalize their order.
 
 Roles: There are 2 roles in this application; Users and Administrators.  Users are UH Students and administrators are special users who have the ability to monitor the behavior of users in the system and maintain the application. 
 
-Mockup page ideas:
+##Mockup page ideas:
 Landing page: The first page users see upon entering the app. Has a navigation bar to sign in or sign up.
 Your supplies/courses: A page listing your supplies and the courses they’re needed for. You can add and delete supplies at any time, as well as specify the semester.
 Item search page: Gives a price comparison on a given item for all available sellers. The best deal should appear at the top of the page, sorted by price or by condition (e.g. used, new, etc.). 
@@ -29,7 +31,7 @@ Order page: A page where you can place/finalize your order and remove items from
 Order history: Shows a history of all your orders.
 Complaints: A page to send a form regarding any questions/concerns users may have with the application.
 
-Use case ideas:
+##Use case ideas:
 New users/admins initially go to the landing page.
 
 Once logged in, the navbar contains links to all of the above pages (except for the landing page) plus a dropdown menu for the shopping cart. 
@@ -39,15 +41,13 @@ Set up payment info in payment information page (e.g. credit/debit cards)
 When you’re ready to buy your items, can go to the order page and finalize your order
 
 
-Beyond the basics:
+##Beyond the basics:
 After implementing the basic functionality, here are ideas for more advanced features:
 Users can actually go buy the items through our webpage 
 Ratings and review system of the school supplies from each store 
 Notify users when there is a price change 
 Mark which one is the best seller
 
-
-Group members: Maya Chang, Lisa Cheng, Adrienne Kaneshiro, Jianlong Chen, Melvin Iwamoto
 
 
 
