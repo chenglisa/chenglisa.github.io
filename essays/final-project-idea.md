@@ -9,8 +9,13 @@ labels:
   - Software Engineering
   - Meteor
 ---
+<p align="center">
+<img src="https://cdn.shopify.com/s/files/1/0029/8159/3158/articles/school-supplies-knolling_1100x734.jpg?v=1630533526" width="300px" >
+</p>
+
+
 ## School Supplies on a Budget: 
-Maya Chang, Lisa Cheng, Adrienne Kaneshiro, Jianlong Chen, Melvin Iwamoto
+Maya Chang, Jianlong Chen, Lisa Cheng, Melvin Iwamoto, Adrienne Kaneshiro
 
 ## Overview: 
 The Problem: Limited budget, need school materials
