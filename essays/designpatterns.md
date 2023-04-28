@@ -18,6 +18,6 @@ As someone that is indecisive and does not really like to cook, the question tha
 
 ## Design patterns
 
-<img width="300px" class="rounded float-start pe-4" src="https://raw.githubusercontent.com/manoa-recipes/manoa-recipes.github.io/main/doc/landing-page.png">
+<img class="rounded float-start pe-4" src="https://raw.githubusercontent.com/manoa-recipes/manoa-recipes.github.io/main/doc/landing-page.png">
 
 
