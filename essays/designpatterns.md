@@ -18,7 +18,7 @@ As someone that is indecisive and does not really like to cook, the question tha
 
 ## Manoa Recipes
 
-<img class="rounded float-start pe-4" src="https://raw.githubusercontent.com/manoa-recipes/manoa-recipes.github.io/main/doc/landing-page.png">
+<img width="300px" class="rounded float-start pe-4" src="https://raw.githubusercontent.com/manoa-recipes/manoa-recipes.github.io/main/doc/landing-page.png">
 
 Over the past few weeks, my classmates and I have been creating a website called Manoa Recipes, to address common food problems for college students: limited kitchen resources, limited cooking skills, limited time, limited access to grocery stores and no access to create recipes that respect these constraints. Before learning about design patterns, I initially thought design patterns were about the aesthetics of a website. I did not realize that when we were building this web application, we were already implementing some common design patterns. One design pattern is the Publish and Subscribe pattern, which is what Meteor is created on – it controls how Meteor servers publish sets of records and how clients can subscribe to them (the pub-sub model). Another design pattern we used was Singleton when building our collections in MongoDB. 
 
