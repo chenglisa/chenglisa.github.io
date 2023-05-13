@@ -29,13 +29,8 @@ In software engineering, configuration management is a system to manage the prog
   </p>
 
 
-In this course, we learned about several project management methodologies such as waterfall and spiral. However, the project management methodology we used for our group project was agile project management, which “focuses on breaking down large projects into more manageable tasks.” Specifically, the type of agile project management process we used was IDPM - issue driven project management. According to IDPM, teams should meet together approximately twice a week and the work should be divided into 72 hour tasks. Each task was created as a GitHub issue, with GitHub Project used to simplify task management. In the GitHub Project, there were 3 columns:
+In this course, we learned about several project management methodologies such as waterfall and spiral. However, the project management methodology we used for our group project was agile project management, which “focuses on breaking down large projects into more manageable tasks.” Specifically, the type of agile project management process we used was IDPM - issue driven project management. According to IDPM, teams should meet together approximately twice a week and the work should be divided into 72 hour tasks. Each task was created as a GitHub issue, with GitHub Project used to simplify task management. In the GitHub Project, there were 3 columns: to do, in progress and done.
 
-1) to do 
-
-2) in progress 
-
-3) done
 
 Each team member was assigned a task and once that task was completed, it was then moved to the completed column. The team member then picks another task from the to-do column. In addition, to minimize conflicts, a new branch was created for each task and was later merged to the main branch once it was completed. This style of project management was very helpful during our group project because it allowed us to break down our project into smaller, manageable tasks. It also provided a visual with who is doing what and what tasks were completed. I believe this project management methodology would be helpful to other coding projects besides just web development. 
 
