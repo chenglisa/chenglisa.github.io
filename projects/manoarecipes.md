@@ -20,3 +20,6 @@ summary: "Final Project for my ICS 314 class"
 
 ## Overview 
 
+## My Contributions
+
+## Key Takeaways 
