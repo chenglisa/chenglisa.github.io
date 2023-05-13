@@ -23,7 +23,7 @@ After going through your resources, the next step would be taking the time to pr
 ---
 ## "Not so Smart" Question
 
-This [question](https://stackoverflow.com/questions/75252519/i-am-getting-an-error-and-i-do-not-know-how-to-solve-it) posted on Stack Overflow is an example that goes against the guidelines by Eric Raymond. Its title, which is very vague, is, “I am getting an error and I do not know how to solve it.” The post itself also does not contain many details; it just states the user had an error occurred during initialization of boot layer java.lang.module.FindException. The user is asking how to fix this type of error and mentioned that several attempts were made to try changing certain parts of the code. However, no details are given on what these changes were. With this type of question, the response the user received was “poor title, rewrite to summarize your specific technical issue.” 
+This question posted on Stack Overflow is an example that goes against the guidelines by Eric Raymond. Its title, which is very vague, is, “I am getting an error and I do not know how to solve it.” The post itself also does not contain many details; it just states the user had an error occurred during initialization of boot layer java.lang.module.FindException. The user is asking how to fix this type of error and mentioned that several attempts were made to try changing certain parts of the code. However, no details are given on what these changes were. With this type of question, the response the user received was “poor title, rewrite to summarize your specific technical issue.” 
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/97767296/215049251-80f53788-261e-4f71-ab6c-1cf962bff8f1.png" width="600" height="340">
