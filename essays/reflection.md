@@ -24,7 +24,10 @@ In software engineering, configuration management is a system to manage the prog
 
 ## Agile Project Management
 
-<img align="center" width="300px" src="https://i.ytimg.com/vi/ff5cBkPg-bQ/maxresdefault.jpg">
+<p align="center">
+<img width="300px" src="https://i.ytimg.com/vi/ff5cBkPg-bQ/maxresdefault.jpg">
+  </p>
+
 
 In this course, we learned about several project management methodologies such as waterfall and spiral. However, the project management methodology we used for our group project was agile project management, which “focuses on breaking down large projects into more manageable tasks.” Specifically, the type of agile project management process we used was IDPM - issue driven project management. According to IDPM, teams should meet together approximately twice a week and the work should be divided into 72 hour tasks. Each task was created as a GitHub issue, with GitHub Project used to simplify task management. In the GitHub Project, there were 3 columns:
 
