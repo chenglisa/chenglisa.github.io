@@ -18,5 +18,5 @@ summary: "Final Project for my ICS 314 class"
 <img width="600px" class="rounded pe-4" src="https://raw.githubusercontent.com/manoa-recipes/manoa-recipes.github.io/main/doc/landing-page.png">
   </p>
 
-### Overview 
+## Overview 
 
