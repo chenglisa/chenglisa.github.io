@@ -13,7 +13,7 @@ summary: "Analyzing Live Streaming Community Dynamics: Popularity Prediction"
 ---
 
 <p align="center">
-<img src="https://blog.twitch.tv/assets/uploads/generic-email-header-1.jpg" width="500" height="340">
+<img src="https://1000logos.net/wp-content/uploads/2018/08/Twitch-emblem.jpg" width="500" height="340">
 </p>
 
 ### AI4ALL 
