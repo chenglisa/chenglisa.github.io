@@ -20,6 +20,12 @@ summary: "Final Project for my ICS 314 class"
 
 ## Overview 
 
+Links:
+
+[Deployed website](https://manoa-recipes.site/)
+
+[Project's home page on Github](https://manoa-recipes.github.io/)
+
 ## My Contributions
 
 ## Key Takeaways 
