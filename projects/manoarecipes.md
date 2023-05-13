@@ -47,6 +47,8 @@ For this project, I created the "Home" page where after successfully logging in,
 In addition, I was responsible for deploying our web application using Digital Ocean. 
 
 
-
-
 ## Key Takeaways 
+
+This project taught me about the agile project management process called IDPM - issue driven project management (we used Github Project as a visual board for task management). This project also helped to reinforce everything we have been learning throughout the course such as HTML, CSS, Javascript, Meteor, etc. In addition, I learned how to deploy a website and exposed me to MongoDB - learning how to create collections and how to pull in data. I also learned how to make a website reactive and how to work in a group. Overall, it was very satisfying to work in a group and see how our ideas come together to create a real working web application. 
+
+
