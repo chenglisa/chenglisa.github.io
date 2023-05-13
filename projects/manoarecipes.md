@@ -39,4 +39,7 @@ Admins are able to edit all content in the system and delete any inappropriate c
 
 <img width="600px" class="rounded pe-4" src="https://raw.githubusercontent.com/manoa-recipes/manoa-recipes.github.io/main/doc/list-recipes-updated.png">
 
+<img width="600px" class="rounded pe-4" src="img/manoa-recipes-logo.png">
+
+
 ## Key Takeaways 
