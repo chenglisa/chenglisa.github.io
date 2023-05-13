@@ -12,13 +12,13 @@ labels:
   - Ethics in Software Engineering
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="https://htmlburger.com/blog/wp-content/uploads/2021/02/lets-talk-about-bootstrap.png">
+<img width="300px" class="rounded float-start pe-4" src="https://media.istockphoto.com/id/532057583/vector/vector-calendar.jpg?s=612x612&w=0&k=20&c=A9VBI7PYasoklb5xcXXVisw4PCcuuc9y067qrBEi0W4=">
 
 This semester, I kept a post-it note to keep track of the current week number. As I crossed off week 16 (the last week of the semester before finals), I cannot believe how fast this semester flew by. As ICS 314 (Software Engineering I) comes to a close, I realized how much I have learned about web application development and fundamental software engineering concepts. This course started off with learning Javascript; to be honest, in the beginning, it was a little daunting to learn a new language in a short amount of time since in prior classes, we spent almost a whole semester just focusing on one language. After Javascript and learning about the library Underscore, we pivoted to learning HTML and CSS. However, I quickly realized just using HTML and CSS to create a “decent” looking web application is very time consuming and this is when we learned about Bootstrap, a popular CSS framework. Afterwards, the semester quickly flew by as we started to learn about React, MongoDB and Meteor. In the end, we were able to practice using all these skills that we have accumulated by working in groups to create a working/responsive web application. Throughout this experience, below are the few topics that stuck out to me the most:  
 
 
 ## Configuration Management
-<img align="right" width="300px" src="https://roclogicmarketing.com/wp-content/uploads/2019/07/pros-and-cons.jpg">
+<img align="right" width="300px" src="https://thurrott.s3.amazonaws.com/wp-content/uploads/sites/2/2023/01/GitHub.jpeg">
 
 In software engineering, configuration management is a system to manage the progression/evolution of software programs. It involves tracking, documenting, and organizing changes to increase productivity. Configuration management allows multiple people to work on a project concurrently. In this course, we used Github Desktop and Github for our configuration management system. In Github, there are features like branching, merging, pull requests, etc. which allows us to manage changes to the code and collaborate with our team members. Prior to this class, I have used Github and GitKraken before for a group project. After being exposed to Github, I can’t imagine working on any coding project without it. In this course, it allowed us to keep track of what our other team members were doing on the web application and allowed us to revert back our changes if necessary. 
 
