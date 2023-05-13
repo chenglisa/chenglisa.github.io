@@ -41,4 +41,8 @@ Each team member was assigned a task and once that task was completed, it was th
 
 ## Ethics in Software Engineering
 
+Towards the end of the semester, we spent a class period talking about the ethics in software engineering. Prior to this class, the only discussion I had about this topic was when we had a brief lecture discussing the ethical implications of artificial intelligence. In this class period, we learned about how a software engineer can do both harm & good, as well as learning about the ACM Code of Ethics. The discussion we had was really an eye opener for me because prior to this, I was really just focused on pushing code and whether or not it complies/works. 
+
+Although ICS 314 was a challenging course, it really pushed me to develop my software engineering skills. I am excited to utilize everything I learned and apply it to other projects & expand on these skills. 
+
 
