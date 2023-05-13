@@ -41,5 +41,9 @@ Admins are able to edit all content in the system and delete any inappropriate c
 
 <img width="600px" class="rounded pe-4" src="/img/vendors.png">
 
+For this project, I created the "Home" page where after successfully logging in, users will be shown a randomly selected recipe. I also created the "List Recipe" page and the "Vendors" page. The "List Recipe" page lists all of the recipes uploaded to the application and allows user to filter based on the dietary restrictions, vegan and gluten-free. The "Vendors" page lists all of the vendors currently registered in the application and clicking on "Products" will bring a drop-down showing what the vendor has in stock with the ingredients' prices. 
+
+
+
 
 ## Key Takeaways 
