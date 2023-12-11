@@ -1,0 +1,112 @@
+{
+  "basics": {
+    "name": "Lisa Cheng",
+    "label": "Student",
+    "picture": "https://github.com/chenglisa.png",
+    "email": "chenglis@hawaii.edu",
+    "phone": "",
+    "website": "https://chenglis.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "chenglisa", "url": "http://github.com/chenglisa" },
+      { "network": "linkedin", "username": "lisacheng", "url": "https://www.linkedin.com/in/lisa-cheng-875369b2/" }
+    ]
+  },
+  "interests": [
+    { "name": "Web Development" },
+    { "name": "Software Engineering" },
+    { "name": "Cybersecurity" },
+    { "name": "Artificial Intelligence" }
+    
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Python", "HTML", "CSS", "Javascript", "Bootstrap" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Windows", "Git/GitHub" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2024)",
+      "studyType": "B.S.",
+      "startDate": "2021-09-01",
+      "endDate": "Present",
+      "courses":  [ "ICS 110P - Programming: Python", 
+                   "ICS 111 - Intro to Computer Science I	(Java)", 
+                   "ICS 141 - Discrete Math for CS I", 
+                   "ICS 211 - Intro to Computer Science II (Java)", 
+                   "ICS 241 - Discrete Mathematics II", 
+                   "ICS 314 - Software Engineering I",
+                   "ICS 321 - Database Systems"
+                   
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "UH Manoa, STAR",
+      "position": "Admin Assistant",
+      "website": "",
+      "startDate": "2021",
+      "endDate": "Present",
+      "summary": "Answer emails and phone calls to STAR, test software",
+      "highlights": [
+        
+        
+      ]
+    }
+    
+  ],
+  "volunteer": [
+    {
+      "organization": "City and County of Honolulu",
+      "website": "",
+      "position": "Po'okela Intern",
+      "startDate": "2023",
+      "endDate": "Present",
+      "summary": "Department of Information Technology, Enterprise Resource Planning (ERP)",
+      "highlights": [
+        
+        
+      ]
+    }, 
+    {
+      "organization": "Naval Information Warfare Center (NIWC)",
+      "website": "",
+      "position": "Cybersecurity Intern",
+      "startDate": "2023",
+      "endDate": "Present",
+      "summary": "Research Project: Securing Health Information - Ransomware Trending",
+      "highlights": [  
+        
+    ]
+    }
+
+  ],
+  
+  "": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
